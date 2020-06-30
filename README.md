@@ -1,5 +1,7 @@
 # homeliason
 
+Blaze + Meteor + MongoDB를 이용해 만든 온라인 쇼핑몰 사이트
+
 ### client routing table
 page name | URL | routing group
 ---- | --- | ---
